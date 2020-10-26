@@ -1,0 +1,24 @@
+#number-guess {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-3 {
+  color: #e4b314;
+  font-size: 500%;
+}
+
+.alert {
+  width: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.list-group {
+  margin-top: 10px;
+  width: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+}
